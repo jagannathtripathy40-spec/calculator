@@ -65,7 +65,7 @@ No additional dependencies or installations are required.
 
 ## 👨‍💻 About the Developer
 
-**Mohit Kumar Pani**
+**Jagannath Tripathy**
 
 Full Stack Developer | Java | Spring Boot | React
 
